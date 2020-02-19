@@ -20,8 +20,8 @@ msgstr ""
 "Generated-By: Babel 2.8.0\n"
 
 msgid "_spec.name"
-msgstr ""
+msgstr "Ξεκίνα από την καρτέλα"
 
 msgid "_spec.description"
-msgstr ""
+msgstr "Χρήση της εξόδου μιας άλλης καρτέλας ως πηγής δεδομένων για την παρούσα καρτέλα."
 
